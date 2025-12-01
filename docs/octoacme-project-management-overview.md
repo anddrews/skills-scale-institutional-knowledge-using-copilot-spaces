@@ -20,6 +20,15 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles
+For larger or more complex projects, additional specialized roles may be included:
+- Portfolio Manager: aligns projects with organizational strategy, manages cross-project resources.
+- Change Manager: coordinates change control, manages adoption and transition.
+- Quality Assurance Lead: defines quality standards, oversees testing and verification.
+- Stakeholder Liaison: serves as primary stakeholder interface, manages feedback and communication.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role definitions.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
