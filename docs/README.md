@@ -60,6 +60,11 @@ Navigate to the appropriate guide based on your project phase or need:
 
 - **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed definitions of typical roles, responsibilities, and communication patterns
 
+### Templates & Checklists
+
+- **[Role-Responsibility Matrix Template](role-responsibility-matrix-template.md)** — RACI matrix template to clarify accountability and responsibility across project activities
+- **[New Role Onboarding Checklist](new-role-onboarding-checklist.md)** — Comprehensive onboarding guide for team members joining in any role
+
 ## Getting Started
 
 ### For New Team Members
